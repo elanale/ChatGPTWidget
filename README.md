@@ -1,2 +1,0 @@
-# ChatGPTWidget
-ChatGPTWidget
