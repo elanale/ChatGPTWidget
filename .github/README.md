@@ -1,1 +1,1 @@
-fnfnfjfjcdejksjndcnsjcgibberish
+chat GPT Widget
